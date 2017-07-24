@@ -13,4 +13,3 @@ namespace DapperDemo.Models
         public bool IsActive { get; set; }
     }
 }
-}
